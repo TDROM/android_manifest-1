@@ -5,7 +5,7 @@
 
   <project path="art" name="android_art" remote="havoc" /> 
 
-  <project path="bionic" name="android_bionic" remote="havoc-test" />
+ <project path="bionic" name="HavocOs/android_bionic" remote="github" revision="oreo" /> 
 
   <project path="device/havoc/sepolicy" name="android_device_havoc_sepolicy" remote="havoc" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="havoc" />
